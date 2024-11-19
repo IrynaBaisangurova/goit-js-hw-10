@@ -54,7 +54,7 @@ function addTimer() {
     minute.textContent = addLeadingZero(time.minutes);
     second.textContent = addLeadingZero(time.seconds);
   } else {
-    iziToast.error({
+    iziToast.success({
       title: 'Ok!',
       message: 'Countdown is over',
       color: '#59a10d',

@@ -34,8 +34,6 @@ img {
   height: auto;
 }
 
-
-
 .button-task {
   display: inline-block;
   background-color: #4e75ff;
@@ -50,7 +48,7 @@ img {
 }
 
 .button-task:hover {
- background-color: #fbfbfb; 
+  background-color: #fbfbfb;
   border: 1px solid #4e75ff;
   color: #4e75ff;
 }
@@ -61,7 +59,7 @@ img {
   margin-top: 36px;
 }
 .subtitle {
-  text-align: center; 
+  text-align: center;
   font-size: 34px;
-  margin-bottom: 32px;
+  margin-bottom: 38px;
 }
