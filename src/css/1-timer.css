@@ -64,7 +64,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  color: #2e2f42;
+  color: #fff;
   text-transform: uppercase;
 }
 .value {
@@ -73,7 +73,7 @@
   font-size: 40px;
   line-height: 1.2;
   letter-spacing: 0.04em;
-  color: #2e2f42;
+  color: #fff;
 }
 .timer {
   display: flex;
